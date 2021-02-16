@@ -20,6 +20,6 @@ Jessica
 
 Resources:
 > This video is a part of HackerRank's Cracking The Coding Interview Tutorial with Gayle Laakmann McDowell
-https://www.youtube.com/watch?v=njTh_OwMljA&feature=emb_logo
+> https://www.youtube.com/watch?v=njTh_OwMljA&feature=emb_logo
 > Stackoverflow for when to use a linked list over an array.
-https://stackoverflow.com/questions/393556/when-to-use-a-linked-list-over-an-array-array-list
+> https://stackoverflow.com/questions/393556/when-to-use-a-linked-list-over-an-array-array-list
