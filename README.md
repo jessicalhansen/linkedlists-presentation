@@ -3,9 +3,16 @@ Alex
 * Build a singly linked list.
 
 Matt
-* At least two examples of the assigned topic.
-* Identify situations where you use a linked list instead of an array.
-
+#### At least two examples of the assigned topic:
+ 1. Trains (Singly) - Train cars are linked in a specific order so that they may be loaded, unloaded, transferred, dropped off, and picked up in the most efficient manner possible. The train travels only forward and the last train car has no connections.
+ <img src="https://www.atnyla.com/library/images-tutorials/Linkedlist-Slide4.PNG" style="height: 100px" />
+ 2. Spotify (Doubly) - Each song points to both the previous and next songs.
+ <img src="https://www.androidpolice.com/wp-content/uploads/2019/03/spotify-now-playing-newer.png"  style="height: 100px"/>
+#### Identify situations where you use a linked list instead of an array.
+ 1. When you need constant-time insertions/deletions from the list (such as in real-time computing where time predictability is absolutely critical)
+ 2. Not sure how many items will be in the list
+ 3. If you do not need random access to any elements
+ 4. If you'll want to be able to insert items in the middle of the list
 
 Vishwa
 * One paragraph explaining the concept behind the topic assigned to your group. Include this in your README.md.
@@ -24,4 +31,8 @@ There is no index value in linked lists, so in order to access data from a parti
 
 
 
-Resources
+##### Resources
+* This video is a part of HackerRank's Cracking The Coding Interview Tutorial with Gayle Laakmann McDowell
+  * https://www.youtube.com/watch?v=njTh_OwMljA&feature=emb_logo
+* Stackoverflow for when to use a linked list over an array
+  * https://stackoverflow.com/questions/393556/when-to-use-a-linked-list-over-an-array-array-list
