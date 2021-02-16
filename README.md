@@ -1,6 +1,6 @@
 # linked-lists
 Alex
-Build a singly linked list.
+* Build a singly linked list.
 
 Matt
 At least two examples of the assigned topic.
