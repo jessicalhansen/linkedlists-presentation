@@ -9,7 +9,9 @@ Matt
   <img src="https://www.atnyla.com/library/images-tutorials/Linkedlist-Slide4.PNG" height="400">
  </p>
  2. Spotify (Doubly) - Each song points to both the previous and next songs.
- <img src="https://www.androidpolice.com/wp-content/uploads/2019/03/spotify-now-playing-newer.png" height="400">
+ <p align="center">
+  <img src="https://www.androidpolice.com/wp-content/uploads/2019/03/spotify-now-playing-newer.png" height="400">
+ </p>
  
 #### Identify situations where you use a linked list instead of an array.
  1. When you need constant-time insertions/deletions from the list (such as in real-time computing where time predictability is absolutely critical)
