@@ -18,7 +18,7 @@ Jessica
 * Explain how a node stores data.
 
 
-#####Resources
+##### Resources
 * This video is a part of HackerRank's Cracking The Coding Interview Tutorial with Gayle Laakmann McDowell
   * https://www.youtube.com/watch?v=njTh_OwMljA&feature=emb_logo
 * Stackoverflow for when to use a linked list over an array
