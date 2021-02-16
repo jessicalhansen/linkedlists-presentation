@@ -3,7 +3,7 @@ Alex
 * Build a singly linked list.
 
 Matt
-At least two examples of the assigned topic:
+* At least two examples of the assigned topic:
 1. Trains (Singly) - Train cars are linked in a specific order so that they may be loaded, unloaded, transferred, dropped off, and picked up in the most efficient manner possible. The train travels only forward and the last train car has no connections.
 2. Spotify (Doubly) - Each song points to both the previous and next songs.
 * Identify situations where you use a linked list instead of an array.
