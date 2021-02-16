@@ -24,8 +24,7 @@ Vishwa
 * One paragraph outlining different types of questions that can be asked/solved using the given topic.
 
 
-Jessica
-## How a node stores data.
+## How a node stores data:
 
 Elements in a linked list are stored in key components called nodes. A node is a unit that contains two sub-elements at the same time:
     - a ***data*** property, which stores a value.
@@ -33,6 +32,8 @@ Elements in a linked list are stored in key components called nodes. A node is a
 Linked lists start with a **head node** and grow by using pointers to other nodes in different parts of the computer's memory. Nodes allow the linked list to expand fairly easily, but requires more space than an array due to storing both the data and the pointers. 
 
 There is no index value in linked lists, so in order to access data from a particular node you must start with the head node and move through the list sequentially. This can result in a lengthy timeline to access data in a linked list because the data set isn't read in one continuous chunk. 
+
+***Doubly Linked Lists*** are exactly the same as **singly linked lists** and first point to the next node in one direction, but also points back to the previous node. 
 
 
 
