@@ -3,7 +3,8 @@ Alex
 * Build a singly linked list.
 
 Matt
-* At least two examples of the assigned topic.
+At least two examples of the assigned topic:
+1. One
 * Identify situations where you use a linked list instead of an array.
 
 
