@@ -9,11 +9,11 @@ Matt
 
 Vishwa
 * One paragraph explaining the concept behind the topic assigned to your group. Include this in your README.md.
+* One paragraph outlining different types of questions that can be asked/solved using the given topic.
 
 
 Jessica
 * Explain how a node stores data.
-* One paragraph outlining different types of questions that can be asked/solved using the given topic.
 
 
 Resources
