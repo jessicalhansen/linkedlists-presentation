@@ -5,7 +5,9 @@ Alex
 Matt
 #### At least two examples of the assigned topic:
  1. Trains (Singly) - Train cars are linked in a specific order so that they may be loaded, unloaded, transferred, dropped off, and picked up in the most efficient manner possible. The train travels only forward and the last train car has no connections.
- <img src="https://www.atnyla.com/library/images-tutorials/Linkedlist-Slide4.PNG" height="400">
+ <p align="center">
+  <img src="https://www.atnyla.com/library/images-tutorials/Linkedlist-Slide4.PNG" height="400">
+ </p>
  2. Spotify (Doubly) - Each song points to both the previous and next songs.
  <img src="https://www.androidpolice.com/wp-content/uploads/2019/03/spotify-now-playing-newer.png" height="400">
  
