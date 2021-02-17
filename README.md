@@ -53,7 +53,7 @@ Linked lists start with a **head node** and grow by using pointers to other node
 ## Interview coming up?
 
 Data structures are a vital part of any programming interview. Often times, Linked lists are a common topic that comes up in the technical interview process. Reviewing and practicing these [Linked List problems](https://www.geeksforgeeks.org/top-20-linked-list-interview-question/) will give you the confidence required to ace your interview while also making you a better programmer. <br>
-Some highlights from the most commonly asked questions include:
+Some highlights include:
 1. ***Linked List Implementaion***
 <details>
  <summary>Solution here</summary>
@@ -72,6 +72,9 @@ Some highlights from the most commonly asked questions include:
 (https://www.geeksforgeeks.org/write-a-function-to-delete-a-linked-list/)
 </details>
 
+Often, these concepts will appear as whiteboarding problems, so you won’t need to know how to code a linked list — just how to draw it and explain it conceptually. [This tool](https://visualgo.net/bn/list?slide=1) can help you visualize adding, removing, and searching for values in a linked list.
+
+If you're curious to learn more, please visit [All Articles on Linked Lists](https://www.geeksforgeeks.org/data-structures/linked-list/).
 
 ### Resources
 * This video is a part of HackerRank's Cracking The Coding Interview Tutorial with Gayle Laakmann McDowell
