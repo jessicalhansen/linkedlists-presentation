@@ -18,17 +18,24 @@ The last node has a reference to null. The entry point into a linked list is cal
  <img src="https://www.educative.io/api/edpresso/shot/5077575695073280/image/5192456339456000" height="300">
 </p> 
 
-<br>
-
-<p align="center">
- <img src="https://www.geeksforgeeks.org/wp-content/uploads/gq/2013/03/Linkedlist.png" height="300">
-</p> 
-
-<br>
-
 <p align="center">
  <img src="https://www.tutorialspoint.com/data_structures_algorithms/images/dsa_linkedlist.jpg" height="300">
 </p>
+
+**There are two types of Linked lists**:
+* Singly linked list -
+A singly linked list is a set of nodes where each node has two fields ‘data’ and ‘link’. The ‘data’ field stores actual piece of information and ‘link’ field is used to point to next node. Basically ‘link’ field is nothing but address only. <br>
+<p align="center">
+ <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2013/03/Linkedlist.png" height="300">
+</p>
+<br>
+
+* Doubly linked list -
+ A Doubly Linked List (DLL) contains an extra pointer, typically called previous pointer, together with next pointer and data which are there in singly linked list. <br>
+ <p align="center">
+ <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2014/03/DLL1.png" height="300">
+</p>
+
 
 ### How a node stores data:
 
