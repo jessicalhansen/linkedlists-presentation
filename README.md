@@ -12,15 +12,11 @@ Linked list elements are not stored at a contiguous location, meaning they are n
 * A [Reference](https://en.wikipedia.org/wiki/Reference_(computer_science)) (in other words, a *link*) to the **next** node. This property can also be called the **Next** property, sometimes called a "pointer" that points to the next item in the list. <br> 
 
 The last node has a reference to null. The entry point into a linked list is called the head of the list. It should be noted that head is not a separate node, but the reference to the first node. If the list is empty then the head is a null reference. In the case of linked lists, the only exception to this rule is the very last node. It doesn’t need a pointer, so it’s known as a “null next node” (or more simply, “the tail”). <br>
-> ***Shown below are some Linked List Representaions***: <br>
+> ***Shown below is a Linked List Representaion***: <br>
 
 <p align="center">
  <img src="https://www.educative.io/api/edpresso/shot/5077575695073280/image/5192456339456000" height="300">
 </p> 
-
-<p align="center">
- <img src="https://www.tutorialspoint.com/data_structures_algorithms/images/dsa_linkedlist.jpg" height="300">
-</p>
 
 **There are two types of Linked lists**:
 * Singly linked list -
