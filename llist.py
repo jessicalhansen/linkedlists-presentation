@@ -3,6 +3,7 @@ class Node:
     self.data = data
     self.next = None
 
+    
 class LinkedList:
   #Create the list with some starting data
   def __init__(self, nodes=None):
@@ -13,6 +14,7 @@ class LinkedList:
       for elem in nodes:
         node.next = Node(data=elem)
         node = node.next
+        
   #Displays list content when list is printed
   def __repr__(self):
       node = self.head
@@ -22,16 +24,19 @@ class LinkedList:
           node = node.next
       nodes.append("None")
       return " -> ".join(nodes)
+    
   #Iterate through the list
   def __iter__(self):
     node = self.head
     while node is not None:
       yield node
       node = node.next
+      
   #Add a new node to the start of the list
   def add_first(self, node):
     node.next = self.head
     self.head = node
+    
   #Add a new node to the end of the list
   def add_last(self, node):
     if self.head is None:
@@ -40,7 +45,8 @@ class LinkedList:
     for current_node in self:
       pass
     current_node.next = node
-  #Add a new node after a seleccted node
+    
+  #Add a new node after a selected node
   def add_after(self, target_node_data, new_node):
     if self.head is None:
       raise Exception("List is empty")
@@ -49,6 +55,7 @@ class LinkedList:
         new_node.next = node.next
         node.next = new_node
         return
+      
   #Remove a node
   def remove_node(self, target_node_data):
     if self.head is None:
@@ -62,6 +69,8 @@ class LinkedList:
         previous_node.next = node.next
         return
       previous_node = node
+
+#####################################################
 
 llist = LinkedList(["b", "c", "d", "e"])
 print(llist)
