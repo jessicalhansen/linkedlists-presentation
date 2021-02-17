@@ -38,9 +38,12 @@ A singly linked list is a set of nodes where each node has two fields ‘data’
 
 Linked lists start with a **head node** and grow by using pointers to other nodes in different parts of the computer's memory. Nodes allow the linked list to expand fairly easily, but requires more space than an array due to storing both the data and the pointers. There is no index value in linked lists, so in order to access data from a particular node you must start with the head node and move through the list sequentially. This can result in a lengthy timeline to access data in a linked list because the data set isn't read in one continuous chunk. 
 
-***Doubly Linked Lists*** are exactly the same as **singly linked lists** and first point to the next node in one direction, but also points back to the previous node. 
+***Doubly Linked Lists*** are exactly the same as **singly linked lists** and first point to the next node in one direction, but also another pointer that links back to the previous node. 
 
 
+Data Structure	Access	Search	Insertion	Deletion
+*    Array	      O(1)	   O(N)	  O(N)	    O(N)
+* Linked list	   O(N)	   O(N)	  O(1)	    O(1)
 
 #### Two examples of the assigned topic:
  1. Trains (Singly) - Train cars are linked in a specific order so that they may be loaded, unloaded, transferred, dropped off, and picked up in the most efficient manner possible. The train travels only forward and the last train car has no connections.
