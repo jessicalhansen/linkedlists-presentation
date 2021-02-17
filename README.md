@@ -1,6 +1,5 @@
-# Linked List
-Matt
-#### At least two examples of the assigned topic:
+###### Linked List
+#### At least two examples of the assigned topic
  1. Trains (Singly) - Train cars are linked in a specific order so that they may be loaded, unloaded, transferred, dropped off, and picked up in the most efficient manner possible. The train travels only forward and the last train car has no connections.
  <p align="center">
   <img src="https://miro.medium.com/max/2280/1*7iuBvBXeST5XFo4HYxrEnw.jpeg" height="400">
@@ -10,7 +9,7 @@ Matt
   <img src="https://www.androidpolice.com/wp-content/uploads/2019/03/spotify-now-playing-newer.png" height="400">
  </p>
  
-#### Identify situations where you use a linked list instead of an array.
+#### Identify situations where you use a linked list instead of an array
  1. When you need constant-time insertions/deletions from the list (such as in real-time computing where time predictability is absolutely critical)
  2. Not sure how many items will be in the list
  3. If you do not need random access to any elements
