@@ -50,6 +50,13 @@ Linked lists start with a **head node** and grow by using pointers to other node
  3. If you do not need random access to any elements
  4. If you'll want to be able to insert items in the middle of the list
 
+## Interview coming up?
+
+Data structures are a vital part of any programming interview. Often times, Linked lists are a common topic that comes up in the technical interview process. Reviewing and practicing these [Linked List problems](https://www.geeksforgeeks.org/top-20-linked-list-interview-question/) will give you the confidence required to ace your interview while also making you a better programmer. <br>
+Some highlights include:
+
+
+
 
 ##### Resources
 * This video is a part of HackerRank's Cracking The Coding Interview Tutorial with Gayle Laakmann McDowell
