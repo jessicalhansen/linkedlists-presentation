@@ -17,6 +17,7 @@ The last node has a reference to null. The entry point into a linked list is cal
 <p align="center">
  <img src="https://www.educative.io/api/edpresso/shot/5077575695073280/image/5192456339456000" height="300">
 </p> 
+<br>
 
 **There are two types of Linked lists**:
 * Singly linked list -
