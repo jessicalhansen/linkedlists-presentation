@@ -1,4 +1,4 @@
-# linked-lists
+# Linked List
 Alex
 * Build a singly linked list.
 
