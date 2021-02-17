@@ -21,7 +21,7 @@ class LinkedList:
           nodes.append(node.data)
           node = node.next
       nodes.append("None")
-      return "->".join(nodes)
+      return " -> ".join(nodes)
   #Iterate through the list
   def __iter__(self):
     node = self.head
@@ -64,8 +64,11 @@ class LinkedList:
       previous_node = node
 
 llist = LinkedList(["b", "c", "d", "e"])
+print(llist)
 llist.add_first(Node("a"))
+print(llist)
 llist.add_last(Node("g"))
+print(llist)
 llist.add_after("e", Node("f"))
 print(llist)
 llist.remove_node("e")
