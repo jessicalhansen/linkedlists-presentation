@@ -1,5 +1,9 @@
 # Linked List
 
+<p align="center">
+ <img src="https://pbs.twimg.com/media/ETyy1VwX0AYPcV4.jpg" height="400">
+</p>
+
 ## Introduction
 
 In Computer Science, a linked list is a linear data structure where each element is a separate object.
