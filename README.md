@@ -72,9 +72,11 @@ Some highlights include:
 (https://www.geeksforgeeks.org/write-a-function-to-delete-a-linked-list/)
 </details>
 
-Often, these concepts will appear as whiteboarding problems, so you won’t need to know how to code a linked list — just how to draw it and explain it conceptually. [This tool](https://visualgo.net/bn/list?slide=1) can help you visualize adding, removing, and searching for values in a linked list.
+Often, these concepts will appear as whiteboarding problems, so you won’t need to know how to code a linked list - just how to draw it and explain it conceptually. [This tool](https://visualgo.net/bn/list?slide=1) can help you visualize adding, removing, and searching for values in a linked list.
 
 If you're curious to learn more, please visit [All Articles on Linked Lists](https://www.geeksforgeeks.org/data-structures/linked-list/).
+
+**Congrats! You're One Step Closer to Preparing For Your Coding Interview**
 
 ### Resources
 * This video is a part of HackerRank's Cracking The Coding Interview Tutorial with Gayle Laakmann McDowell
