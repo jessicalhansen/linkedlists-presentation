@@ -27,7 +27,7 @@ Vishwa
 ## How a node stores data:
 
 Elements in a linked list are stored in key components called nodes. A node is a unit that contains two sub-elements at the same time:
-    * a ***data*** property, which stores a value.
+* a ***data*** property, which stores a value.
     * a ***pointer*** property, which points to and links the next node. 
 Linked lists start with a **head node** and grow by using pointers to other nodes in different parts of the computer's memory. Nodes allow the linked list to expand fairly easily, but requires more space than an array due to storing both the data and the pointers. 
 
