@@ -1,3 +1,5 @@
+#Code taken from https://realpython.com/linked-lists-python/
+
 class Node:
   def __init__(self, data):
     self.data = data
